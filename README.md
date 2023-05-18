@@ -20,3 +20,7 @@ Day.js
 ## Demo
 
 ![Work Day Scheduler](./assets/work-day-scheduler-demo.gif)
+
+## Link
+
+https://kyungkwon01.github.io/work-day-scheduler/
